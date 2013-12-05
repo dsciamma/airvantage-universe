@@ -1,7 +1,7 @@
 AirVantage Universe
 ===================
 
-Universe demonstrates how easy it is to create an IoT application using Facebook + Parse  + AirVantage .
+Universe demonstrates how easy it is to create an IoT application using:
 * [Facebook](https://developers.facebook.com/) to:
  * __authenticate end-users__
 * [AirVantage](http://www.sierrawireless.com/en/productsandservices/AirVantage_M2M_Cloud.aspx) to:
