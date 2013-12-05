@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="parse_app_id">parse_app_id</string>
+    <string name="parse_client_key">parse_client_key</string>
+    <string name="app_name">facebook_app_name</string>
+    <string name="app_id">facebook_app_id</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="login_intro">Check out your Facebook profile by logging in with the button below!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_thing">Add</string>
+    <string name="enter_serial">Enter the serial number</string>
+    <string name="enter_name">Enter a name</string>
+    <string name="scan">Scan</string>
+    <string name="thing_name">No name</string>
+
+</resources>

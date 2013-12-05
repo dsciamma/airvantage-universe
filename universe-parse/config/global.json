@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Universe": {
+            "applicationId": "oHJSEiC2GQqaHHxtR9E9PfbCP3WG4QZfZAAefhkk", 
+            "masterKey": "tkGQUs8sZZbxJE3dBZGINX6U5fFgufkAi2fn49kL"
+        }, 
+        "_default": {
+            "link": "Universe"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.13"
+    }
+}
